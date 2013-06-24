@@ -37,7 +37,7 @@ foreach( $xml->children() as $child)
 	$temp->features[] = $poi;
 }
 echo indent(json_encode($temp));
-$fp = fopen('hotspots.geojson', 'w');
+$fp = fopen('json/hotspots.geojson', 'w');
 fwrite($fp, indent(json_encode($temp)));
 fclose($fp);
 ?>

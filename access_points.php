@@ -30,7 +30,7 @@ foreach( $xml->children() as $child)
 }
 echo indent(json_encode($temp));
 //Writes to file
-$fp = fopen('hotspots.json', 'w');
+$fp = fopen('json/hotspots.json', 'w');
 fwrite($fp, indent(json_encode($temp)));
 fclose($fp);
 ?>

@@ -38,7 +38,7 @@ foreach( $xml->children() as $child)
 }
 //echo "test";
 echo indent(json_encode($temp));
-$fp = fopen('museums.json', 'w');
+$fp = fopen('json/museums.json', 'w');
 fwrite($fp, indent(json_encode($temp)));
 fclose($fp);
 ?>

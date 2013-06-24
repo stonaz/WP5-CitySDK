@@ -1,0 +1,888 @@
+{
+  "Libraries":[
+    {
+      "Library":{
+        "City":"Ariccia",
+        "Category":"",
+        "Denomination":"Ariccia Punto Prestito",
+        "Address":"Ufficio Informagiovani, Corso Garibaldi 2 - 00040 Ariccia",
+        "Phone":"06.9332332 - 06.93021415",
+        "Fax":"06.93021415",
+        "Website":"http:\/\/www.comunediariccia.it,http:\/\/www.aricciafestaecultura.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/ariccia-punto-prestito"
+      }
+    },
+    {
+      "Library":{
+        "City":"Albano Laziale",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Albano Laziale",
+        "Address":"Viale Risorgimento, 5 - 00041 Albano Laziale",
+        "Phone":"06.9320534",
+        "Fax":"06.9320534",
+        "Website":"http:\/\/www.romacastelli.it,http:\/\/www.comune.albanolaziale.roma.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-albano-laziale"
+      }
+    },
+    {
+      "Library":{
+        "City":"Albano Laziale",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Albano Laziale - Cecchina",
+        "Address":"Via Italia, 2 - 00041 Albano",
+        "Phone":"06.9340205",
+        "Fax":"06.9340205",
+        "Website":"http:\/\/www.romacastelli.it,http:\/\/www.comune.albanolaziale.roma.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-albano-laziale-cecchina"
+      }
+    },
+    {
+      "Library":{
+        "City":"Albano Laziale",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Albano Laziale - Pavona",
+        "Address":"via Roma, 1 - 00041 Albano Laziale - Pavona",
+        "Phone":"06.9313044",
+        "Fax":"06.9313044",
+        "Website":"http:\/\/www.consorziosbcr.net,http:\/\/www.comune.albanolaziale.roma.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-albano-laziale-pavona"
+      }
+    },
+    {
+      "Library":{
+        "City":"Allumiere",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Allumiere",
+        "Address":"Palazzo Camerale - P.zza della Repubblica, 29 - 00051 Allumiere",
+        "Phone":"0766.96354",
+        "Fax":"0766.96106",
+        "Website":"http:\/\/www.allumiere.org",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-allumiere"
+      }
+    },
+    {
+      "Library":{
+        "City":"Anguillara Sabazia",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Anguillara Sabazia",
+        "Address":"Biblioteca \"Angela Zucconi\" Largo dello Zodiaco, 21 - 00061 Anguillara Sabazia",
+        "Phone":"06.99607548",
+        "Fax":"06.99609232",
+        "Website":"http:\/\/www.bibliotechesbcs.eu,http:\/\/biblioweb.altervista.org,http:\/\/www.comune.anguillara-sabazia.roma.it\/info-biblioteca...",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-anguillara-sabazia"
+      }
+    },
+    {
+      "Library":{
+        "City":"Anticoli Corrado",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Anticoli Corrado",
+        "Address":"Via G. Bertoletti, 4 - 00022 Anticoli Corrado",
+        "Phone":"0774.936318",
+        "Fax":"0774.936379",
+        "Website":"http:\/\/www.anticoli-corrado.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-anticoli-corrado"
+      }
+    },
+    {
+      "Library":{
+        "City":"Anzio",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Anzio",
+        "Address":"Via di Villa Adele - 00042 Anzio",
+        "Phone":"0698499 402-403-478",
+        "Fax":"06.98340891",
+        "Website":"http:\/\/www.comune.anzio.roma.it\/web\/uffici\/servizio-ufficio....,http:\/\/cittadianzio.blogspot.it\/2012_01_01_archive.html",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-anzio"
+      }
+    },
+    {
+      "Library":{
+        "City":"Arsoli",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Arsoli",
+        "Address":"Piazza dei Martiri Antifascisti, 1 - 00023 Arsoli",
+        "Phone":"0774.920006",
+        "Fax":"0774.920313",
+        "Website":"http:\/\/www.comunediarsoli.rm.it,http:\/\/www.prolocodiarsoli.it\/home%20page.htm",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-arsoli"
+      }
+    },
+    {
+      "Library":{
+        "City":"Artena",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Artena",
+        "Address":"Via Cardinale Scipione Borghese - 00031 Artena",
+        "Phone":"06.9517014",
+        "Fax":"06.95191054",
+        "Website":"http:\/\/www.comune.artena.rm.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-artena"
+      }
+    },
+    {
+      "Library":{
+        "City":"Bracciano",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Bracciano",
+        "Address":"P.zza dei Pasqualetti - 00062 Bracciano",
+        "Phone":"06.99816267 - 06.99816245",
+        "Fax":"06.99816218",
+        "Website":"http:\/\/www.bibliotechesbcs.eu,http:\/\/www.comune.bracciano.rm.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-bracciano"
+      }
+    },
+    {
+      "Library":{
+        "City":"Campagnano",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Campagnano di Roma",
+        "Address":"Corso Vittorio Emanuele, 2 - 00063 Campagnano di Roma",
+        "Phone":"06.9042924",
+        "Fax":"06.90159308",
+        "Website":"http:\/\/www.bibliotechesbcs.eu,http:\/\/www.comunecampagnano.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-campagnano-di-roma"
+      }
+    },
+    {
+      "Library":{
+        "City":"Capena",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Capena",
+        "Address":"Biblioteca \"Monsignor Francesco Mirra\" via G. Matteotti, 36 - 00060 Capena",
+        "Phone":"06.9032607",
+        "Fax":"06.9074301",
+        "Website":"http:\/\/www.comunedicapena.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-capena"
+      }
+    },
+    {
+      "Library":{
+        "City":"Carpineto Romano",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Carpineto Romano",
+        "Address":"Via Matteotti, 58 - 00032 Carpineto Romano",
+        "Phone":"06.97180028",
+        "Fax":"06.97180029",
+        "Website":"http:\/\/www.carpinetoromano.it\/Biblioteca\/biblioteca.htm",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-carpineto-romano"
+      }
+    },
+    {
+      "Library":{
+        "City":"Castel Madama",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Castel Madama",
+        "Address":"via Roma, 25 - 00024 Castel Madama",
+        "Phone":"0774.4500209",
+        "Fax":"0774.4500251",
+        "Website":"http:\/\/www.comunedicastelmadama.it\/biblioteca\/home.html",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-castel-madama"
+      }
+    },
+    {
+      "Library":{
+        "City":"Cave",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Cave",
+        "Address":"P.zza Garibaldi, 4 - 00033 Cave",
+        "Phone":"06.9581487",
+        "Fax":"06.9581363",
+        "Website":"http:\/\/www.bibliotecheprenestine.it,http:\/\/www.comune.cave.rm.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-cave"
+      }
+    },
+    {
+      "Library":{
+        "City":"Cerveteri",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Cerveteri",
+        "Address":"Via Etruria, 39 - 00052 Cerveteri",
+        "Phone":"06.9943285",
+        "Fax":"06.9943008",
+        "Website":"http:\/\/www.comune.cerveteri.rm.it,http:\/\/www.bibliotechesbcs.eu",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-cerveteri"
+      }
+    },
+    {
+      "Library":{
+        "City":"Ciampino",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Ciampino",
+        "Address":"Biblioteca 'Pier Paolo Pasolini' - Via 4 Novembre, 90 - 00043 Ciampino",
+        "Phone":"06.7911619",
+        "Fax":"06.79326252\/3",
+        "Website":"http:\/\/www.romacastelli.it,http:\/\/www.comune.ciampino.roma.it,http:\/\/www.facebook.com\/biblioteca.pierpaolopasolini",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-ciampino"
+      }
+    },
+    {
+      "Library":{
+        "City":"Civitavecchia",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Civitavecchia",
+        "Address":"Biblioteca \"A. Cialdi\" - Piazza Calamatta, 18 - 00053 Civitavecchia",
+        "Phone":"0766.590559",
+        "Fax":"0766.370254",
+        "Website":"http:\/\/calamatta18.blogspot.com,http:\/\/www.comunecivitavecchia.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-civitavecchia"
+      }
+    },
+    {
+      "Library":{
+        "City":"Colleferro",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Colleferro",
+        "Address":"Via Carpinetana sud, 144 - 00034 Colleferro",
+        "Phone":"06.97303400",
+        "Fax":"06.97303400",
+        "Website":"http:\/\/www.culturalazio.it\/biblioteche\/colleferro\/argomento....,http:\/\/www.comune.colleferro.rm.it,http:\/\/www.segnaweb.it\/",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-colleferro"
+      }
+    },
+    {
+      "Library":{
+        "City":"Colonna",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Colonna",
+        "Address":"Biblioteca Comunale 'Elsa Morante' - via Colle S. Andrea, 1 - 00030 Colonna",
+        "Phone":"06.94731520",
+        "Fax":"06.94731520",
+        "Website":"http:\/\/www.consorziosbcr.net,http:\/\/www.comune.colonna.roma.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-colonna"
+      }
+    },
+    {
+      "Library":{
+        "City":"Fiano Romano",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Fiano Romano",
+        "Address":"Castello Orsini P.zza Matteotti, 21 \u2013 00065 Fiano Romano",
+        "Phone":"0765\/480728",
+        "Fax":"0765\/480623",
+        "Website":"http:\/\/www.comune.fianoromano.rm.it\/Biblioteca\/Biblioteca.as...",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-fiano-romano"
+      }
+    },
+    {
+      "Library":{
+        "City":"Fiumicino",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Fiumicino",
+        "Address":"Villa Guglielmi, Piazzale del Faro snc - 00054 Fiumicino RM",
+        "Phone":"06.657538. 219 \/ 221 \/226",
+        "Fax":"06.657538226",
+        "Website":"http:\/\/www.comune.fiumicino.rm.gov.it\/formazione-e-cultura\/b...",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-fiumicino"
+      }
+    },
+    {
+      "Library":{
+        "City":"Formello",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Formello",
+        "Address":"Palazzo Chigi - Piazza San Lorenzo - 00060 Formello",
+        "Phone":"06.9089032",
+        "Fax":"06.9089577",
+        "Website":"http:\/\/www.comune.formello.rm.it\/index.php?a=42&m=41#cittadi...",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-formello"
+      }
+    },
+    {
+      "Library":{
+        "City":"Frascati",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Frascati - BASC (Biblioteca Archivio Storico Comunale)",
+        "Address":"Via Matteotti, 32 - 00044 Frascati",
+        "Phone":"06.94299013",
+        "Fax":"06.94016330",
+        "Website":"http:\/\/www.consorziosbcr.net,http:\/\/www.comune.frascati.rm.it,http:\/\/www.basc.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-frascati-basc-biblioteca-archivio-storico-comunale"
+      }
+    },
+    {
+      "Library":{
+        "City":"Frascati",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Frascati - Sezione Ragazzi 'Casa di Pia'",
+        "Address":"Biblioteca 'Casa di Pia' c\/o Parco dell'Ombrellino - Via Rapini snc - 00044 Frascati",
+        "Phone":"06.9417674",
+        "Fax":"",
+        "Website":"http:\/\/www.consorziosbcr.net,http:\/\/www.comune.frascati.rm.it,http:\/\/www.basc.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-frascati-sezione-ragazzi-casa-di-pia"
+      }
+    },
+    {
+      "Library":{
+        "City":"Gallicano nel Lazio",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Gallicano nel Lazio",
+        "Address":"Palazzo Baronale - Piazza della Rocca - 00010 Gallicano nel Lazio",
+        "Phone":"06.95461824",
+        "Fax":"06.95461824 \/ 06.95460043",
+        "Website":"http:\/\/www.bibliotecheprenestine.it,http:\/\/www.gallicano.comnet.roma.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-gallicano-nel-lazio"
+      }
+    },
+    {
+      "Library":{
+        "City":"Genazzano",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Genazzano",
+        "Address":"Castello Colonna - P.zza San Nicola, 1 - 00030 Genazzano",
+        "Phone":"06.9579745",
+        "Fax":"06.9579027",
+        "Website":"http:\/\/www.bibliotecheprenestine.it,http:\/\/www.comune.genazzano.roma.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-genazzano"
+      }
+    },
+    {
+      "Library":{
+        "City":"Genzano di Roma",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Genzano di Roma",
+        "Address":"Biblioteca Comunale 'Carlo Levi' - Viale Mazzini, 12 - 00045 Genzano di Roma",
+        "Phone":"06.93956063 int. 10",
+        "Fax":"06.93956066",
+        "Website":"http:\/\/www.consorziosbcr.net,http:\/\/www.comune.genzanodiroma.roma.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-genzano-di-roma"
+      }
+    },
+    {
+      "Library":{
+        "City":"Grottaferrata",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Grottaferrata",
+        "Address":"Biblioteca Comunale 'Bruno Martellotta' - Viale Giovanni Dusmet, 20 - 00046 Grottaferrata",
+        "Phone":"06.9411655",
+        "Fax":"06.9411655",
+        "Website":"http:\/\/www.romacastelli.it,http:\/\/www.comune.grottaferrata.roma.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-grottaferrata"
+      }
+    },
+    {
+      "Library":{
+        "City":"Guidonia Montecelio",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Guidonia",
+        "Address":"via M. Moris, 7 - 00012 Guidonia Montecelio",
+        "Phone":"0774.341898",
+        "Fax":"",
+        "Website":"http:\/\/www.guidonia.org,http:\/\/www.guidoniacultura.eu",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-guidonia"
+      }
+    },
+    {
+      "Library":{
+        "City":"Guidonia Montecelio",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Guidonia Montecelio",
+        "Address":"Convento S. Michele Arcangelo - Via 25 Aprile - Guidonia Montecelio",
+        "Phone":"0774.511053",
+        "Fax":"",
+        "Website":"http:\/\/www.guidoniacultura.eu,http:\/\/www.guidonia.org",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-guidonia-montecelio"
+      }
+    },
+    {
+      "Library":{
+        "City":"Guidonia Montecelio",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Guidonia Setteville",
+        "Address":"via Todini - 00012 Guidonia Setteville",
+        "Phone":"0774.390136",
+        "Fax":"",
+        "Website":"http:\/\/www.guidonia.org,http:\/\/www.guidoniacultura.eu",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-guidonia-setteville"
+      }
+    },
+    {
+      "Library":{
+        "City":"Guidonia Montecelio",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Guidonia Villalba",
+        "Address":"Via Brindisi, 6 - 00012 Guidonia Villalba",
+        "Phone":"0774.379221",
+        "Fax":"",
+        "Website":"http:\/\/www.guidonia.org,http:\/\/www.guidoniacultura.eu",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-guidonia-villalba"
+      }
+    },
+    {
+      "Library":{
+        "City":"Ladispoli",
+        "Category":"",
+        "Denomination":"Biblioteca comunale Ladispoli",
+        "Address":"Via Caltagirone - 00055 Ladispoli",
+        "Phone":"06.99220889 - 06.99223627",
+        "Fax":"06.99223627",
+        "Website":"http:\/\/bibliotechesbcs.eu",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-ladispoli"
+      }
+    },
+    {
+      "Library":{
+        "City":"Lanuvio",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Lanuvio",
+        "Address":"Biblioteca 'Francesco Dionisi' - Via Sforza Cesarini, 37 - 00040 Lanuvio",
+        "Phone":"06.93789243",
+        "Fax":"06.9375870",
+        "Website":"http:\/\/www.romacastelli.it,http:\/\/www.lanuvio.comnet.roma.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-lanuvio"
+      }
+    },
+    {
+      "Library":{
+        "City":"Lariano",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Lariano",
+        "Address":"Piazza S. Eurosia, 1 - 00040 Lariano",
+        "Phone":"06.96499241",
+        "Fax":"06.96499241",
+        "Website":"http:\/\/www.romacastelli.it,http:\/\/www.comune.lariano.rm.it,https:\/\/www.facebook.com\/BibliotecaLariano",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-lariano"
+      }
+    },
+    {
+      "Library":{
+        "City":"Mandela",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Mandela",
+        "Address":"Biblioteca \u201cE. Renan\u201d - Via Umberto I, 14 - 00020 Mandela",
+        "Phone":"0774.492020",
+        "Fax":"",
+        "Website":"",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-mandela"
+      }
+    },
+    {
+      "Library":{
+        "City":"Manziana",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Manziana",
+        "Address":"Piazza Firenze, 27 - 00066 Manziana",
+        "Phone":"06.99675018 - 9963229",
+        "Fax":"fax - 06.9963229",
+        "Website":"http:\/\/bibliotechesbcs.eu",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-manziana"
+      }
+    },
+    {
+      "Library":{
+        "City":"Marino",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Marino",
+        "Address":"Biblioteca Comunale 'Vittoria Colonna' - Corso Vittoria Colonna, Parco di Villa Desideri - 00047 Marino",
+        "Phone":"06.93802069",
+        "Fax":"06.93802069",
+        "Website":"http:\/\/www.romacastelli.it,http:\/\/www.comune.marino.rm.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-marino"
+      }
+    },
+    {
+      "Library":{
+        "City":"Marino",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Marino - Santa Maria delle Mole",
+        "Address":"Piazza Palmiro Togliatti - 00040 Santa Maria delle Mole, Marino",
+        "Phone":"06.9351006",
+        "Fax":"06.9351006",
+        "Website":"http:\/\/www.consorziosbcr.net,http:\/\/www.comune.marino.rm.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-marino-santa-maria-delle-mole"
+      }
+    },
+    {
+      "Library":{
+        "City":"Mazzano Romano",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Mazzano Romano",
+        "Address":"Piazza Giovanni XXIII - 00060 Mazzano Romano",
+        "Phone":"06.9049001 - 06.9049490 int. 7",
+        "Fax":"06.9049808",
+        "Website":"http:\/\/www.mazzanoromano.rm.gov.it\/pagina\/biblioteca-0,http:\/\/www.mazzanoromano.info\/biblioteca.html",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-mazzano-romano"
+      }
+    },
+    {
+      "Library":{
+        "City":"Mentana",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Mentana",
+        "Address":"Via Crescenzio, 11 - 00013",
+        "Phone":"06.90969250\/2\/3",
+        "Fax":"",
+        "Website":"http:\/\/comune.mentana.rm.it\/css-n\/indice\/391,391.html",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-mentana"
+      }
+    },
+    {
+      "Library":{
+        "City":"Montecompatri",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Monte Compatri",
+        "Address":"Biblioteca Comunale 'Marco Mastrofini' - Via degli Annibaldeschi snc - 00040 Monte Compatri",
+        "Phone":"06.94789076",
+        "Fax":"06.94789076",
+        "Website":"http:\/\/www.romacastelli.it,http:\/\/www.montecompatri.comnet.roma.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-monte-compatri"
+      }
+    },
+    {
+      "Library":{
+        "City":"Monte Porzio Catone",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Monte Porzio Catone",
+        "Address":"Biblioteca Comunale 'Marco Albertazzi' - Via Garibaldi, 1 - Palazzo Borghese 00040 Monte Porzio Catone",
+        "Phone":"06.9447528",
+        "Fax":"06.9447528",
+        "Website":"http:\/\/www.consorziosbcr.net,http:\/\/www.comune.monteporziocatone.rm.it,http:\/\/www.facebook.com\/biblioteca.monteporzio",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-monte-porzio-catone"
+      }
+    },
+    {
+      "Library":{
+        "City":"Monterotondo",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Monterotondo",
+        "Address":"Biblioteca Paolo Angelani; - Piazza don Minzoni - 00015 Monterotondo",
+        "Phone":"06.90964221",
+        "Fax":"06.9061490",
+        "Website":"http:\/\/www.comune.monterotondo.rm.it\/d-viverecitta\/bibliotec...",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-monterotondo"
+      }
+    },
+    {
+      "Library":{
+        "City":"Anzio",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Multimediale 'Chris Cappell' Anzio",
+        "Address":"Biblioteca Comunale Multimediale \"Chris Cappell\" viale Antium, 7\/A - 00042 Anzio",
+        "Phone":"06.9874823",
+        "Fax":"06.9877656",
+        "Website":"http:\/\/www.bibliotecachriscappell.it,http:\/\/www.comune.anzio.roma.it\/web\/uffici\/servizio-ufficio....",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-multimediale-chris-cappell-anzio"
+      }
+    },
+    {
+      "Library":{
+        "City":"Palestrina",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Palestrina",
+        "Address":"Biblioteca Comunale \u201cFantoniana\u201d piazza del Carmine, 1 - 00036 Palestrina",
+        "Phone":"06.9536753",
+        "Fax":"06.9536753",
+        "Website":"http:\/\/www.bibliotecheprenestine.it,http:\/\/www.palestrina.comnet.roma.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-palestrina"
+      }
+    },
+    {
+      "Library":{
+        "City":"Pomezia",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Pomezia",
+        "Address":"Largo Catone snc - 00040 Pomezia",
+        "Phone":"06.9111768",
+        "Fax":"06.9111768",
+        "Website":"http:\/\/www.comune.pomezia.rm.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-pomezia"
+      }
+    },
+    {
+      "Library":{
+        "City":"Rocca di Papa",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Rocca di Papa",
+        "Address":"Viale Enrico Ferri, 67 - 00040 Rocca di Papa",
+        "Phone":"06.9499281",
+        "Fax":"06.9499281",
+        "Website":"http:\/\/www.romacastelli.it,http:\/\/www.comune.roccadipapa.rm.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-rocca-di-papa"
+      }
+    },
+    {
+      "Library":{
+        "City":"Rocca Priora",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Rocca Priora",
+        "Address":"Biblioteca Comunale 'Luigi Porcari' - Via della Rocca, 35 - 00040 Rocca Priora",
+        "Phone":"06.94073020",
+        "Fax":"06.94073020",
+        "Website":"http:\/\/www.romacastelli.it,http:\/\/www.comune.roccapriora.roma.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-rocca-priora"
+      }
+    },
+    {
+      "Library":{
+        "City":"Rocca Priora",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Rocca Priora - Colle di Fuori",
+        "Address":"Biblioteca Comunale 'Giovanni Cena' - P.zza Giovanni Cena, 1 - 00040 Colle di Fuori (fraz. di Rocca Priora)",
+        "Phone":"06.9461301",
+        "Fax":"06.9461301",
+        "Website":"http:\/\/www.romacastelli.it,http:\/\/www.comune.roccapriora.roma.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-rocca-priora-colle-di-fuori"
+      }
+    },
+    {
+      "Library":{
+        "City":"Roccagiovine",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Roccagiovine",
+        "Address":"via del Rio,1 - 00020 Roccagiovine",
+        "Phone":"0774.498831",
+        "Fax":"0774.49897",
+        "Website":"",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-roccagiovine"
+      }
+    },
+    {
+      "Library":{
+        "City":"Roviano",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Roviano",
+        "Address":"Via della Peschiera, 2 - 00027 Roviano",
+        "Phone":"0774.903046 - 903143",
+        "Fax":"0774.903008",
+        "Website":"http:\/\/www.comuneroviano.rm.it\/Biblioteca.aspx",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-roviano"
+      }
+    },
+    {
+      "Library":{
+        "City":"San Cesareo",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale San Cesareo",
+        "Address":"Viale dei Cedri, 14 - 00030 San Cesareo",
+        "Phone":"06.9587255 \u2013 06.95898218",
+        "Fax":"06.9589139",
+        "Website":"http:\/\/www.bibliotecheprenestine.it\/Biblioteche\/SanCesareo\/t...",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-san-cesareo"
+      }
+    },
+    {
+      "Library":{
+        "City":"Santa Marinella",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Santa Marinella",
+        "Address":"via Aurelia, 310\/b - 00058 Santa Marinella",
+        "Phone":"0766.537943",
+        "Fax":"0766.537943",
+        "Website":"http:\/\/www.bibliotechesbcs.eu",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-santa-marinella"
+      }
+    },
+    {
+      "Library":{
+        "City":"Segni",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Segni",
+        "Address":"Via della Pretura, 1 - 00037 Segni",
+        "Phone":"06.97262235",
+        "Fax":"06.9768106",
+        "Website":"http:\/\/www.comune.segni.rm.it,http:\/\/www.cmmontilepini.it,http:\/\/www.museosegni.it\/,http:\/\/www.silviomuzii.it\/",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-segni"
+      }
+    },
+    {
+      "Library":{
+        "City":"Subiaco",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Subiaco",
+        "Address":"Via della Repubblica, 26 - 00028 Subiaco",
+        "Phone":"0774.822800",
+        "Fax":"0774.822810",
+        "Website":"",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-subiaco"
+      }
+    },
+    {
+      "Library":{
+        "City":"Tivoli",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Tivoli",
+        "Address":"Biblioteca \"Maria Coccanari Fornari\" - Piazza del Tempio d'Ercole, 1 - 00019 Tivoli",
+        "Phone":"0774.453480 - 0774.332793",
+        "Fax":"0774.332793",
+        "Website":"http:\/\/www.comune.tivoli.rm.it\/home_biblioteca,http:\/\/www.comune.tivoli.rm.it\/node",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-tivoli"
+      }
+    },
+    {
+      "Library":{
+        "City":"Tolfa",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Tolfa",
+        "Address":"Palazzo \u201cEx Convento Padri Agostiniani\" Largo 15 Marzo 1799 - 00059 Tolfa",
+        "Phone":"0766.92127 - 0766.9390232",
+        "Fax":"0766.9390243",
+        "Website":"http:\/\/www.comuneditolfa.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-tolfa"
+      }
+    },
+    {
+      "Library":{
+        "City":"Torrita Tiberina",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Torrita Tiberina",
+        "Address":"c\/o Scuola media statale - Via Cavour n. 1 - 00060 Torrita Tiberina",
+        "Phone":"0765.30116",
+        "Fax":"0765.30236",
+        "Website":"",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-torrita-tiberina"
+      }
+    },
+    {
+      "Library":{
+        "City":"Trevignano Romano",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Trevignano Romano",
+        "Address":"Largo Santa Caterina, 1 - 00069 Trevignano Romano",
+        "Phone":"06.999120216",
+        "Fax":"06.9999848",
+        "Website":"",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-trevignano-romano"
+      }
+    },
+    {
+      "Library":{
+        "City":"Valmontone",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Valmontone",
+        "Address":"Via del Broglio 1 - 00038 Valmontone",
+        "Phone":"06.9590606",
+        "Fax":"06.9590606",
+        "Website":"http:\/\/www.comunevalmontone.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-valmontone"
+      }
+    },
+    {
+      "Library":{
+        "City":"Velletri",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Velletri",
+        "Address":"Biblioteca \"Augusto Tersenghi\" - P.zza Cairoli, 54 - 00049 Velletri",
+        "Phone":"Tel: 06.96155290",
+        "Fax":"Fax: 06.96155290 (telefonare per farlo attivare o attendere 7 squilli)",
+        "Website":"http:\/\/www.romacastelli.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-velletri"
+      }
+    },
+    {
+      "Library":{
+        "City":"Velletri",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Velletri - Fondo Antico",
+        "Address":"via Del Comune, 34 - 00049 Velletri (RM)",
+        "Phone":"06.9631836",
+        "Fax":"06.96154045",
+        "Website":"http:\/\/www.romacastelli.it,http:\/\/www.comune.velletri.rm.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-velletri-fondo-antico"
+      }
+    },
+    {
+      "Library":{
+        "City":"Vicovaro",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Vicovaro",
+        "Address":"Via delle scuole, 1 - 00029",
+        "Phone":"0774.498002",
+        "Fax":"0774.498297",
+        "Website":"http:\/\/www.comunedivicovaro.it\/biblioteca-comunale\/bibliotec...",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-vicovaro-0"
+      }
+    },
+    {
+      "Library":{
+        "City":"Zagarolo",
+        "Category":"",
+        "Denomination":"Biblioteca Comunale Zagarolo",
+        "Address":"Biblioteca \u201cGiovanni Coletti\u201d Palazzo Rospigliosi - Piazza Indipendenza - 00039",
+        "Phone":"Tel: 06.95769408 - 06.95769409",
+        "Fax":"Fax: 06.95769433",
+        "Website":"http:\/\/www.zagarolo.rm.gov.it\/pagina\/biblioteca,http:\/\/www.bibliotecheprenestine.it",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/biblioteca-comunale-zagarolo"
+      }
+    },
+    {
+      "Library":{
+        "City":"Affile",
+        "Category":"",
+        "Denomination":"Nome della biblioteca",
+        "Address":"via",
+        "Phone":"0",
+        "Fax":"0",
+        "Website":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/www,http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/www",
+        "Email":"",
+        "More informations":"http:\/\/admin.sistema-bibliotecario.provincia.roma.it\/content\/nome-della-biblioteca"
+      }
+    }
+  ]
+}

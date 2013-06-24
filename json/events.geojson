@@ -1,0 +1,77 @@
+{
+  "Type":"FeatureCollection",
+  "features":[
+    {
+      "Type":"feature",
+      "geometry":{
+        "Type":"Point",
+        "Coordinates":"41.8160295 , 12.5886882"
+      },
+      "properties":{
+        "Day":"Luned\u00ec, Giugno 24 2013",
+        "Title":"Emozioni dal cinema",
+        "From day":"Ven, 01\/03\/2013 (Tutto il giorno)",
+        "To day":"Ven, 01\/03\/2013 (Tutto il giorno)",
+        "Preview":"Una Mostra unica nel suo genere, dedicata ai visitatori di tutte le et\u00e0, consente al pubblico di visionare manufatti, sculture, creazioni e scenografie originali nel campo del cinema e dello spettacolo per far comprendere quale grande lavoro si nasconda dietro la realizzazione di un film per far sognare uno spettatore sempre pi\u00f9 attento ai \"tecnicismi\", alle abilit\u00e0 ed ai virtuosismi di questa nobile arte.",
+        "More informations":"http:\/\/www.romaepiu.it\/content\/emozioni-dal-cinema",
+        "Website":"",
+        "Address":"",
+        "Phone number":""
+      }
+    },
+    {
+      "Type":"feature",
+      "geometry":{
+        "Type":"Point",
+        "Coordinates":"42.1406251 , 12.5399878"
+      },
+      "properties":{
+        "Day":"Luned\u00ec, Giugno 24 2013",
+        "Title":"La Transavanguardia a Capena",
+        "From day":"Lun, 18\/02\/2013 (Tutto il giorno)",
+        "To day":"Lun, 18\/02\/2013 (Tutto il giorno)",
+        "Preview":"La Transavanguardia tra L&uuml;pertz e Paladino\", mostra visitabile dal 18 febbraio 2013 all'Art Forum W&uuml;rth Capena, riunisce circa sessanta lavori tra dipinti e sculture degli artisti Mimmo Paladino e Markus L&uuml;pertz, due dei maggiori rappresentanti di questo movimento, in un ideale dialogo Italia - Germania.",
+        "More informations":"http:\/\/www.romaepiu.it\/content\/la-transavanguardia-capena",
+        "Website":"",
+        "Address":"",
+        "Phone number":""
+      }
+    },
+    {
+      "Type":"feature",
+      "geometry":{
+        "Type":"Point",
+        "Coordinates":"42.057195 , 12.622207"
+      },
+      "properties":{
+        "Day":"Luned\u00ec, Giugno 24 2013",
+        "Title":"Venerd\u00ec di archeologia",
+        "From day":"Ven, 14\/06\/2013 (Tutto il giorno)",
+        "To day":"Ven, 14\/06\/2013 (Tutto il giorno)",
+        "Preview":"Saranno venerd\u00ec dedicati all'archeologia quelli organizzati dall'Archeoclub d'Italia sede Mentana-Monterotondo. Dal 7 al 28 giungo, ogni venerd\u00ec alle ore 18.00, sar\u00e0 infatti possibile visitare l'area archeologica della via Nomentum-Eretum in localit\u00e0 Tor Mancina- Monterotondo. Tutti invitati quindi all'apertura straordinaria al pubblico del sito archeologico, che potrete visitare con l'ausilio degli archeologi dell'Associazione ed assistere eccezionalmente all'attivit\u00e0 di ricerca archeologica in corso.",
+        "More informations":"http:\/\/www.romaepiu.it\/content\/venerd%C3%AC-di-archeologia",
+        "Website":"",
+        "Address":"",
+        "Phone number":"06\/9091245"
+      }
+    },
+    {
+      "Type":"feature",
+      "geometry":{
+        "Type":"Point",
+        "Coordinates":"42.002302 , 12.631432"
+      },
+      "properties":{
+        "Day":"Luned\u00ec, Giugno 24 2013",
+        "Title":"Sagra delle Rose",
+        "From day":"Mer, 19\/06\/2013 (Tutto il giorno)",
+        "To day":"Mer, 19\/06\/2013 (Tutto il giorno)",
+        "Preview":"Rioni in festa, carri allegorici, maratonina ed estrazioni sono le componenti della XXXVII edizione della Sagra delle Rose di Santa Lucia di Fonte Nuova.  Organizzata dall'Associazione Culturale delle Rose, rappresenta il fulcro delle festivit\u00e0 locali. Negli anni i visitatori sono aumentati costringendo gli organizzatori a spostarne il centro dalla Piazza delle Rose alla zona industriale di Santa Lucia. Per l'edizione 2013 sono previsti sei giorni di festa: dal 19 al 24 giugno.  Oltre ai caratteristici addobbi dei Rioni in festa, ai carri allegorici che rappresentano il clou della manifestazione, sono previsti anche concerti musicali, spettacoli di cabaret, giochi pirotecnici conclusivi e svariate manifestazioni religiose.",
+        "More informations":"http:\/\/www.romaepiu.it\/content\/sagra-delle-rose",
+        "Website":"http:\/\/www.sagradellerose.it",
+        "Address":"",
+        "Phone number":"3392525189"
+      }
+    }
+  ]
+}
